@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kgolubic
+- 👋 Hi, I’m Kruno Golubic
 - 👀 I’m interested in graph databases
-- 🔭 I’m currently working on [Memgraph](https://memgraph.com/)
+- 🔭 I’m currently working in [Memgraph](https://memgraph.com/) as technical writer
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [@kgolubic](https://twitter.com/kgolubic)
 
